@@ -12,4 +12,11 @@ order is 5 x 4 x 3 = 60.
 The formula for the number of variations of selecting and arranging r objects from a set of 
 n objects is:
 
-$$ V(n, r) = \frac{n!}{(n - r)!} $$
+$$ V_k^n = \frac{n!}{(n - k)!} $$
+
+where:
+
+- n is the total number of objects in the set.
+- k is the number of objects to be selected and arranged.
+
+## Example Problems
