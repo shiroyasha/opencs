@@ -120,4 +120,4 @@ the license plate can be created:
 
 or using the formula:
 
-$$ V_3^26 x V_3^10 = \frac{26!}{(26 - 3)!} x \frac{10!}{(10 - 3)!} = \frac{26!}{23!} x \frac{10!}{7!} = 26 x 25 x 24 x 10 x 9 x 8 = 1,872,000 $$
+$$ V_3^(26) x V_3^(10) = \frac{26!}{(26 - 3)!} \times \frac{10!}{(10 - 3)!} = \frac{26!}{23!} \times \frac{10!}{7!} = 26 x 25 x 24 x 10 x 9 x 8 = 1,872,000 $$
