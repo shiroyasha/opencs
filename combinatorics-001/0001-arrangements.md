@@ -31,23 +31,33 @@ The first blank can be filled with any of the four letters:
 
 ```
 _ _ _ _
+^
 4
 ```
 
 The second blank can be filled with any of the three remaining letters:
 
+```
 _ _ _ _
+^ ^
 4 3
+```
 
 The third blank can be filled with any of the two remaining letters:
 
+```
 _ _ _ _
+^ ^ ^
 4 3 2
+```
 
 The fourth blank can be filled with the remaining letter:
 
+```
 _ _ _ _
+^ ^ ^ ^
 4 3 2 1
+```
 
 The choices for each blank are dependent on the choices made for the previous blanks. Therefore,
 we can use the multiplication principle to determine the total number of ways the letters in the
