@@ -31,7 +31,6 @@ The first blank can be filled with any of the four letters:
 
 ```
 _ _ _ _
-^
 4
 ```
 
@@ -39,7 +38,6 @@ The second blank can be filled with any of the three remaining letters:
 
 ```
 _ _ _ _
-^ ^
 4 3
 ```
 
@@ -47,7 +45,6 @@ The third blank can be filled with any of the two remaining letters:
 
 ```
 _ _ _ _
-^ ^ ^
 4 3 2
 ```
 
@@ -55,7 +52,6 @@ The fourth blank can be filled with the remaining letter:
 
 ```
 _ _ _ _
-^ ^ ^ ^
 4 3 2 1
 ```
 
@@ -70,27 +66,37 @@ word "MATH" can be arranged:
 Let's say the books are {A, B, C, D} and draw four blanks to represent the four positions on the
 shelf:
 
+```
 _ _ _ _
+```
 
 The first blank can be filled with any of the four books:
 
+```
 _ _ _ _
 4
+```
 
 The second blank can be filled with any of the three remaining books:
 
+```
 _ _ _ _
 4 3
+```
 
 The third blank can be filled with any of the two remaining books:
 
+```
 _ _ _ _
 4 3 2
+```
 
 The fourth blank can be filled with the remaining book:
 
+```
 _ _ _ _
 4 3 2 1
+```
 
 Using the multiplication principle, we can determine the total number of ways the four books can be
 arranged on the shelf:
