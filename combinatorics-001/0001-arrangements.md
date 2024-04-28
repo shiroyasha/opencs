@@ -23,12 +23,16 @@ The formula for the number of arrangements of n objects is n! (n factorial).
 Let's say the letters in the word "MATH" are {M, A, T, H} and draw four blanks to represent
 the four positions in which the letters can be arranged:
 
+```
 _ _ _ _
+```
 
 The first blank can be filled with any of the four letters:
 
+```
 _ _ _ _
 4
+```
 
 The second blank can be filled with any of the three remaining letters:
 
