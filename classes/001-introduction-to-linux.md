@@ -145,3 +145,7 @@ $ cd ..
 16. What does the `echo` command do?
 17. What does the `>` operator do?
 18. What does the `exit` command do?
+19. Create a directory called `test` and create a file called `hello.txt` with the contents `Hello, World!`.
+20. Copy `hello.txt` to `hello2.txt`, and then move `hello2.txt` to `hello3.txt`.
+21. Remove `hello.txt` and `hello3.txt`.
+22. Go back to the home directory.
